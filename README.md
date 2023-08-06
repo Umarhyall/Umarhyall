@@ -1,6 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Umar
-
+# 👋 Hi, I'm Umar
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="gif" width="100%" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umarbhrn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-baharun) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/umarbaharun_) 
